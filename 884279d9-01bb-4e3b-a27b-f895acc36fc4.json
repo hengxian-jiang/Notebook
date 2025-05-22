@@ -1,7 +1,7 @@
 {
   "id": "884279d9-01bb-4e3b-a27b-f895acc36fc4",
   "name": "my-new-notebook",
-  "notebookContent": "# %% [jupyter]\nprint(\"Hello Git, I am pushing\")\n# %% [jupyter]\nprint(\"Cell 2\")\n# %% [jupyter]\nprint(\"Cell 3\")",
+  "notebookContent": "# %% [jupyter]\nprint(\"Hello Git, I am pushing\")\n# %% [jupyter]\nprint(\"Cell 2\")\n# %% [jupyter]\nprint(\"Cell 3\")\n# %% [jupyter]\nprint(\"cell 4\")",
   "isShared": false,
   "datasetId": "8c97ac68-fbfd-4c69-834b-89da8116731a"
 }
