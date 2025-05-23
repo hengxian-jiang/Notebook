@@ -1,7 +1,7 @@
 {
   "id": "c6de30d4-d106-42de-83cb-0cc7ef672626",
   "name": "notebook_5.23",
-  "notebookContent": "",
+  "notebookContent": "# %% [jupyter]\nprint(\"Hello\")",
   "isShared": false,
   "datasetId": "8c97ac68-fbfd-4c69-834b-89da8116731a"
 }
